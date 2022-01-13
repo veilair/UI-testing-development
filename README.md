@@ -5,6 +5,8 @@
 ### What Is UI Testing?
 * **User interface or UI testing,** also known as *GUI testing,* is the process of testing the visual elements of an application to validate whether they accurately meet the expected performance and functionality. By testing the GUI, testers can validate that UI functions are free from defects.
 
+![ui-testing](https://github.com/veilair/UI-testing-development/blob/main/img/uitesting_process_op.png)
+
 #### The main aspects checked in UI testing include:
 
 - Visual Design
@@ -15,6 +17,7 @@
 
 What UI Testing is important in the SDLC?
 
+![GUI](https://github.com/veilair/UI-testing-development/blob/main/img/pyramid.png)
 
 ## UI Testing Checklist: Essential Test Cases
 
