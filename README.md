@@ -21,7 +21,7 @@ What UI Testing is important in the SDLC?
 
 ## UI Testing Checklist: Essential Test Cases
 
-Like most types of software testing, the scope of GUI testing can be very broad. In this section, we put together essential test cases that can help QA professionals test their interfaces thoroughly. The test cases cover different UI aspects, including images, color standards, page content, navigation, usability, and more. Use this checklist to ensure your UI tests are more exhaustive.
+Like most types of software testing, the scope of [GUI testing](https://www.perfecto.io/blog/ui-testing-comprehensive-guide) can be very broad. In this section, we put together essential test cases that can help QA professionals test their interfaces thoroughly. The test cases cover different UI aspects, including images, color standards, page content, navigation, usability, and more. Use this checklist to ensure your UI tests are more exhaustive.
 
 - Data type errors – Ensure only valid data can be entered for specific data types such as currency and dates.
 - Field widths – If a certain text box permits a specified amount of characters, then make it clear on the user interface that the data entered shouldn’t exceed the character limit. ( For instance, a field that allows 50 characters in the application’s database should not allow users to enter more than 50 characters on the interface).
